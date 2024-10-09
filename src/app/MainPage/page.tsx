@@ -5,7 +5,7 @@ import { BookOpen, Search } from 'lucide-react'
 
 export default function MainPage() {
   return (
-    <div className="min-h-screen bg-background text-foreground">
+    <div className="min-h-screen bg-background text-foreground dark">
       <header className="p-4 border-b">
         <nav className="container mx-auto flex justify-between items-center">
           <Link href="/" className="text-2xl font-bold flex items-center">
